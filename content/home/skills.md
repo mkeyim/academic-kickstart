@@ -16,44 +16,47 @@ weight = 7
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "chart-bar"
+  icon = "database"
   icon_pack = "fas"
-  name = "Visualization"
+  name = "SQL"
   
 [[feature]]
-  icon = "adobe"
-  icon_pack = "fab"
-  name = "Adobe CS"
+  icon = "stream"
+  icon_pack = "fas"
+  name = "Data Pipelines"
 
+[[feature]]
+  icon = "search-plus"
+  icon_pack = "fas"
+  name = "Data Analysis"
+  
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
+
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
   
-[[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "SQL"
   
 [[feature]]
-  icon = "linode"
-  icon_pack = "fab"
-  name = "Machine Learning"
+  icon = "tachometer-alt"
+  icon_pack = "fas"
+  name = "Dashboards"
   
 [[feature]]
   icon = "percentage"
   icon_pack = "fas"
   name = "Statistics"
   
+  
 [[feature]]
-  icon = "search-plus"
-  icon_pack = "fas"
-  name = "Data Analysis"
+  icon = "adobe"
+  icon_pack = "fab"
+  name = "Adobe CS"
   
 [[feature]]
   icon = "utensils"
