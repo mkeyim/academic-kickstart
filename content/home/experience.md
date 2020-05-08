@@ -26,7 +26,9 @@ date_format = "January 2006"
   date_start = "2019-08-01"
   date_end = "2020-05-20"
   description = """
-  * Engineered end-to-end data pipeline to identify and label 2.5 million Luxe-likely Airbnb users for growth marketing with further tiers of users by pulling in features from multiple segmentation models.
+  * Engineered end-to-end data pipelines to segment and label 2.5 million Luxe-likely Airbnb users for Lux SEM and email marketing, which further resulted to uplifted Plus and Marketplace bookings.
+  * Led the implementation of email, GDN, and SEM campaign tracking for Lux's data pipelines while collaborating with Engineers and Growth Marketers for ad efficiency tracking. 
+  * Defined key business metrics for a regional preferred listings A/B test involving display, SEM, and email campaigns and created a self-service automated dashboard (SQL, Airflow, Superset) with conversion and A/B metrics for all marketers involved.
   """
 
 
