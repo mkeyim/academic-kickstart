@@ -70,7 +70,7 @@ interests = [
 [[social]]
   icon = "drumstick-bite"
   icon_pack = "fas"
-  link = "https://letsdinein.blog/"
+  link = "https://lets-dine-in.com/"
 
 +++
 
