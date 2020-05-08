@@ -30,7 +30,7 @@ interests = [
 [[education.courses]]
   course = "Master of Data Science"
   institution = "University of British Columbia"
-  year = 2018
+  year = 2019
 
 [[education.courses]]
   course = "B.Com in Management Information Systems"
