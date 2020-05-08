@@ -19,6 +19,18 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Data Analyst, Growth"
+  company = "Airbnb, Inc."
+  company_url = "https://airbnb.com/"
+  location = "Montreal, Quebec"
+  date_start = "2019-08-01"
+  date_end = "2020-05-20"
+  description = """
+  * Engineered end-to-end data pipeline to identify and label 2.5 million Luxe-likely Airbnb users for growth marketing with further tiers of users by pulling in features from multiple segmentation models.
+  """
+
+
+[[experience]]
   title = "Data Visualization Analyst"
   company = "Lixar IT Inc."
   company_url = "https://lixar.com/"
