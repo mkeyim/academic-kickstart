@@ -26,11 +26,10 @@ date_format = "January 2006"
   date_start = "2019-08-01"
   date_end = "2020-05-20"
   description = """
-  * Engineered end-to-end data pipelines to segment and label 2.5m Luxe-likely Airbnb users for Lux SEM and email marketing. Resulted to a goldilocks effect of uplifted Plus & Marketplace bookings.
-  * Led the implementation of email, GDN, and SEM campaign tracking for Lux's data pipelines by collaborating with Engineers and Growth Marketers for ad efficiency tracking.
+  * Engineered end-to-end data pipelines to segment and label 2.5m Luxe-likely Airbnb users for Lux SEM and email marketing. Resulted to uplifted Plus & Marketplace bookings.
+  * Led the implementation of email, GDN, and SEM campaign tracking for Lux's data pipelines (using Airflow, Hive, Python) by collaborating with Engineers and Growth Marketers for ad efficiency tracking.
   * Defined key business metrics used to A/B test listings for display, SEM, and email campaigns. Developed a self-service automated dashboard (with SQL, Airflow, Superset) with conversion metrics for all marketers involved.
   
-
   """
 
 
