@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Growth Data Science, Analyst @ Airbnb"
+role = "Data Science, Analyst @ Airbnb"
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
