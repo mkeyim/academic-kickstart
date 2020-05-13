@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Growth Data Analyst @ Airbnb"
+role = "Growth Data Science, Analyst @ Airbnb"
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -46,7 +46,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:milibankeyim@gmail.com".
+  link = "mailto:milibankeyim@gmail.com"  # For a direct email link, use "mailto:milibankeyim@gmail.com".
 
 [[social]]
   icon = "linkedin"
