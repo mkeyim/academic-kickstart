@@ -24,7 +24,7 @@ date_format = "January 2006"
   company_url = "https://airbnb.com/"
   location = "Montreal, Quebec"
   date_start = "2019-08-01"
-  date_end = "2020-05-20"
+  date_end = "Present"
   description = """
   * Engineered end-to-end data pipelines to segment and label 2.5m Luxe-likely Airbnb users for Lux SEM and email marketing. Resulted to uplifted Plus & Marketplace bookings.
   * Led the implementation of email, GDN, and SEM campaign tracking for Lux's data pipelines (using Airflow, Hive, Python) by collaborating with Engineers and Growth Marketers for ad efficiency tracking.
