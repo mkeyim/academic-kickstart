@@ -19,7 +19,19 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Data Science, Analyst"
+  title = "Growth Data"
+  company = "Square, Inc."
+  company_url = "https://squareup.com/"
+  location = "Toronto, Ontario"
+  date_start = "2020-08-01"
+  date_end = "Present"
+  description = """
+  * Growing Square's eCommerce platform with Data analysis and engineering.
+  
+  """
+  
+  [[experience]]
+  title = "Data Analyst"
   company = "Airbnb, Inc."
   company_url = "https://airbnb.com/"
   location = "Montreal, Quebec"

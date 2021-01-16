@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Data Science, Analyst @ Airbnb"
+role = "Growth Data @ Square"
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -20,7 +20,7 @@ email = "milibankeyim@gmail.com"
 # List (academic) interests or hobbies
 interests = [
   "Data Analysis & Modeling",
-  "Data Pipeline Development",
+  "Data Engineering & Pipeline Development",
   "Data Visualization & Dashboarding"
   
 ]
@@ -74,6 +74,4 @@ interests = [
 
 +++
 
-With a Masters of Data Science and competencies in SQL, Python, Apache Airflow, and R, I worked as a data analyst at Airbnb where I helped the Lux Growth team construct end-to-end data pipelines, customer segmentation, and ad-hoc marketing analysis.
-
-I am looking for Data Science and Data Analyst roles.
+With a Masters of Data Science and competencies in SQL, Python, Apache Airflow, and R, I worked in Growth Data at Square where I analyze and develop pipelines to grow Square's eCommerce platform.
