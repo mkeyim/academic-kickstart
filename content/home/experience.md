@@ -25,7 +25,7 @@ date_format = "January 2006"
   company_url = "https://squareup.com/"
   location = "Toronto, Ontario"
   date_start = "2020-08-01"
-  date_end = "Present"
+  date_end = ""
   description = """
   * Growing Square's eCommerce platform with Data analysis and engineering.
   
