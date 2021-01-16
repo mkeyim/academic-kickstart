@@ -18,8 +18,9 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Growth Data"
+  title = "Growth Data Analyst"
   company = "Square, Inc."
   company_url = "https://squareup.com/"
   location = "Toronto, Ontario"
@@ -29,14 +30,15 @@ date_format = "January 2006"
   * Growing Square's eCommerce platform with Data analysis and engineering.
   
   """
+
   
-  [[experience]]
+[[experience]]
   title = "Data Analyst"
   company = "Airbnb, Inc."
   company_url = "https://airbnb.com/"
   location = "Montreal, Quebec"
   date_start = "2019-08-01"
-  date_end = "Present"
+  date_end = "2020-07-01"
   description = """
   * Engineered end-to-end data pipelines to segment and label 2.5m Luxe-likely Airbnb users for Lux SEM and email marketing. Resulted to uplifted Plus & Marketplace bookings.
   * Led the implementation of email, GDN, and SEM campaign tracking for Lux's data pipelines (using Airflow, Hive, Python) by collaborating with Engineers and Growth Marketers for ad efficiency tracking.
@@ -106,29 +108,6 @@ date_format = "January 2006"
   * Aided in the qualitative research of polling conditions, as well as the design and development of information reporting systems for electoral events.
   * Independently created the first visualizations of the mapping with Illustrator which later created the foundations for new reporting interface of voter result, resulting in the entire organization using it on Election Day.
 """
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
