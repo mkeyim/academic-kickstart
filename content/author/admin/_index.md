@@ -74,4 +74,4 @@ interests = [
 
 +++
 
-With a Masters of Data Science and competencies in SQL, Python, Apache Airflow, and R, I worked in Growth Data at Square where I analyze and develop pipelines to grow Square's eCommerce platform.
+With a Masters of Data Science and competencies in SQL, Python, Apache Airflow, and R, I'm a part of the Analytics team at Square where I analyze and develop pipelines to grow Square's eCommerce platform.
